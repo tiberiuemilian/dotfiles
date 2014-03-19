@@ -1,0 +1,10 @@
+[user]
+	name = Martin Trojer
+	email = martin.trojer@gmail.com
+[push]
+	default = simple
+[color]
+	ui = true
+[http]
+	sslVerify = false
+ 	postBuffer = 524288000
