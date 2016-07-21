@@ -1,6 +1,7 @@
 [user]
 	name = Martin Trojer
 	email = martin.trojer@gmail.com
+	signingkey = 236E74BF
 [push]
 	default = simple
 [color]
@@ -12,3 +13,5 @@
 	user = martintrojer
 [github "encrypted"]
 	oauth-token = U2FsdGVkX1/brDdCscmcyw11kQplKWfvzy84rXaEHXX3vTvkYUvAXeXTho1QjpViweVtqxbT76ymh6/mHIL/6g==
+[commit]
+	gpgsign = true
