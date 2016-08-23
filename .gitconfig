@@ -14,4 +14,4 @@
 [github "encrypted"]
 	oauth-token = U2FsdGVkX1/brDdCscmcyw11kQplKWfvzy84rXaEHXX3vTvkYUvAXeXTho1QjpViweVtqxbT76ymh6/mHIL/6g==
 [commit]
-	gpgsign = true
+	gpgsign = false
